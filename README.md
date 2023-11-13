@@ -57,5 +57,5 @@ me.say_hi()
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/vMohd/ghidaq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vMohd&repo=ghidaq&show_icons=true&line_height=27&title_color=2f80ed&text_color=434d58&icon_color=6aa6f8&bg_color=fffefe" alt="ghidaq" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vMohd&repo=ghidaq&show_icons=true&line_height=27&title_color=2f80ed&text_color=ffffff&icon_color=6aa6f8&bg_color=151515" alt="ghidaq" />
 </a>
