@@ -3,7 +3,7 @@
 </p>
 
 <p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=7d5a50&size=25&lines=Welcome+to+Mohammed+GitHub!;I'm+a+Software+Engineer+;I'm+Into...;<Web+Development/>;<Programming/>;<UI|UX+Design/>;<Mobile+App+Development/>"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1f4d3a&size=25&lines=Welcome+to+Mohammed+GitHub!;I'm+a+Software+Engineer+;I'm+Into...;<Web+Development/>;<Programming/>;<UI|UX+Design/>;<Mobile+App+Development/>"/></a>
 </p>
 
 
@@ -19,7 +19,7 @@ I'm a **Software Engineer 🎓** & **Full-Stack Web Developer 💻** with a pass
 
 
 ## :hammer_and_wrench: **Skills & Technologies**
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,php,mysql,laravel,java,python,c,vscode,github,git,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,python,django,postgresql,php,mysql,laravel,github,git&perline=7)](https://skillicons.dev)
 
 
 ## 📊 **Github Stats**
